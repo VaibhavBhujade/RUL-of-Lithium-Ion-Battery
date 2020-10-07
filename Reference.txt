@@ -1,1 +1,2 @@
 https://ieeexplore.ieee.org/document/8698866
+Yang, Xin-She & Gandomi, Amir. (2012). Bat Algorithm: A Novel Approach for Global Engineering Optimization. Engineering Computations. 29. 10.1108/02644401211235834.
